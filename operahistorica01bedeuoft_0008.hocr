@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahistorica01bedeuoft_0008.png"; bbox 0 0 1473 2322; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 302 174 1221 1696">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 302 174 1221 1696">
+     <span class='ocr_line' id='line_1_1' title="bbox 302 174 1221 1696; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 302 174 1221 1696; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 453 1721 1054 1800">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 453 1721 1054 1800">
+     <span class='ocr_line' id='line_1_2' title="bbox 453 1721 1054 1750; baseline -0.005 0"><span class='ocrx_word' id='word_1_2' title='bbox 453 1729 521 1750; x_wconf 79' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_3' title='bbox 547 1728 759 1749; x_wconf 63' lang='lat' dir='ltr'>YENl-:hAHLE</span> <span class='ocrx_word' id='word_1_4' title='bbox 787 1721 911 1747; x_wconf 63' lang='lat' dir='ltr'>REDE&#39;s</span> <span class='ocrx_word' id='word_1_5' title='bbox 936 1726 1054 1748; x_wconf 67' lang='lat' dir='ltr'>CHAIR.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 489 1770 1016 1800; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 489 1781 514 1800; x_wconf 65' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_7' title='bbox 542 1770 663 1800; x_wconf 47' lang='lat' dir='ltr'>PAI&#39;LR</span> <span class='ocrx_word' id='word_1_8' title='bbox 688 1778 844 1799; x_wconf 50' lang='lat' dir='ltr'>CHVPA‘H.</span> <span class='ocrx_word' id='word_1_9' title='bbox 869 1777 1016 1797; x_wconf 67' lang='lat' dir='ltr'>JAffl-wxx·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
